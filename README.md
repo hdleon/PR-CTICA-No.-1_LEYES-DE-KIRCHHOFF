@@ -93,27 +93,51 @@ Realizamos las mediciones de voltaje e intensidad de corriente de cada elemento 
 
 *Voltaje Total*
 
+![LAB VT](https://user-images.githubusercontent.com/116777118/201387348-c7b0601f-cd1c-47fc-909f-348fe7414614.png)
+
 *Voltaje en R1*
- 
+
+![LAB VR1](https://user-images.githubusercontent.com/116777118/201387366-f102c98d-c16c-433f-a30b-c69bc2b4028d.png)
+
 *Voltaje en R2*
- 
+
+![LAB VR2](https://user-images.githubusercontent.com/116777118/201387398-d9872d9b-ca63-45be-9268-a97139d48889.png)
+
 *Voltaje en R3*
- 
+
+![LAB VR3](https://user-images.githubusercontent.com/116777118/201387427-2020f4ec-7a33-46d4-bab1-27ce1b59f409.png)
+
 *Voltaje en R4*
- 
+
+![LAB VR4](https://user-images.githubusercontent.com/116777118/201387457-553caa85-fa9b-4f05-9810-9b60e78d3753.png)
+
 *Voltaje en R5*
- 
+
+![LAB VR5](https://user-images.githubusercontent.com/116777118/201387475-84344b9d-6723-4113-b706-fdabec50f8a6.png)
+
 *Intensidad total*
- 
+
+![INTENSIDAD TOTAL](https://user-images.githubusercontent.com/116777118/201386902-24b614ae-9e8d-42a2-87c8-d47e18574929.png)
+
 *Intensidad en R1*
 
+![I R1](https://user-images.githubusercontent.com/116777118/201386970-950ff4c6-d16b-47c8-b32c-ceebcd54bbf6.png)
+
 *Intensidad en R2*
- 
+
+![I R2](https://user-images.githubusercontent.com/116777118/201386992-862fabd5-ddc4-419c-9e72-a158d1faf90a.png)
+
 *Intensidad en R3*
 
+![I R3](https://user-images.githubusercontent.com/116777118/201387015-1f98f3b3-50f4-49b4-9215-d88766d1d191.png)
+
 *Intensidad en R4*
- 
+
+![I R4](https://user-images.githubusercontent.com/116777118/201387055-598ba538-c6ab-4592-9fc1-6aa3fb25cffc.png)
+
 *Intensidad en R5*
+
+![I R5](https://user-images.githubusercontent.com/116777118/201387078-30e1337b-b48b-493d-b8aa-3d2bbd279c77.png)
 
 Tabla de resultados con las respectivas mediciones de voltaje e intensidad de corriente de cada elemento.
 
@@ -176,16 +200,4 @@ https://youtu.be/SSZin3_pG3s
 •	Se determinó que, en circuitos en paralelo, el voltaje es el mismo para cada elemento mientras que la intensidad de corriente se reparte en las distintas direcciones, además la suma algebraica de la intensidad de entrada y salida en los respectivos nodos siempre es cero. 
 
 •	La ley de ohm se aplica con constancia en este tipo análisis y es la raíz inicial para las aplicaciones de distintas leyes y fórmulas con respecto a circuitos eléctricos. 
-
-
-
-
-
-
-
-
-
-
-
-
 
