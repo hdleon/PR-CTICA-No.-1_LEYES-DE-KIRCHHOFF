@@ -201,3 +201,10 @@ https://youtu.be/SSZin3_pG3s
 
 •	La ley de ohm se aplica con constancia en este tipo análisis y es la raíz inicial para las aplicaciones de distintas leyes y fórmulas con respecto a circuitos eléctricos. 
 
+**INTEGRANTES**
+
+Josue Chavez
+
+Domenica Espin
+
+Henrry Leon
