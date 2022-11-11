@@ -185,7 +185,7 @@ Podemos observar que las leyes de Kirchhoff se cumplen en nuestro circuito y que
 
 **Ejemplo.**
 
-![EJEMPLO DE ERROR](https://user-images.githubusercontent.com/116777118/201385137-916c11d3-fb12-4efc-b6ec-2a6bd79dfd63.jpg)
+![Ejemplo de calculo de error](https://user-images.githubusercontent.com/116777118/201390249-5196f0ae-e576-4d5c-adb6-5d8608327db6.jpg)
 
 **1.4. VIDEO**
 
